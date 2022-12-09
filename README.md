@@ -14,7 +14,6 @@ Horiseon, a marketing agency, needed to ensure that their codebase for their web
 <br/>
 
 ## **What I learned**
-<img align="right" src="assets/images/mock-up.png" width="300px" border="10px">
 
 <br/>
 
