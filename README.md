@@ -30,7 +30,7 @@ The company Horiseon needed me to restructure the source code of their website s
 ## **Refactor changes**
 + Corrected HTML & CSS formating so that the code flowed from top to bottom following the structure of the website.
 + Gave the website a descriptive and concise <title>.
-+ Added descriptive `alt` attributes for images on the page. 
++ Added descriptive "alt" attributes for images on the page. 
 + Replaced <div> with semantic elements to make it more accessable & functional.
 + Fixed "Search Engine Optimization" link.
 + Edited the CSS structure according to the semantics of the HTML.
