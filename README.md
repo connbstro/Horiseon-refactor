@@ -9,7 +9,7 @@ The purpose of this project was to refactor a company's website source code to i
 <br/>
 
 ## **Why did I build this?**
-Horiseon, a marketing agency, needed to ensure that their codebase for their website met accessibility standards. The agency provided me with their working codebase requesting minor modifications, improved formatting, and a clean up (consolidation) of the index.html and style.css files. Once complete, the website would be optimized for search engines as well as Horiseon's customers.
+The company Horiseon needed me to restructure the source code of their website so as to improve operation without altering any functionality. They needed to ensure that their codebase for their website met accessibility standards. With the provided code I refactored and improved the website.
 
 <br/>
 
